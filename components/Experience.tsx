@@ -28,9 +28,19 @@ const education = [
 
 const experience = [
   {
+    title: "Software Developer",
+    company: "The Reynolds and Reynolds Company",
+    period: "Jan 2023 - Present",
+    highlights: [
+      "Develop and maintain Service Portal 2.0, a full-stack web application for car dealerships and customers",
+      "Build modern front-end interfaces using React, TypeScript, Redux, and CSS",
+      "Create API integrations connecting front-end applications with legacy database infrastructure",
+    ],
+  },
+  {
     title: "ICU / Acute Occupational Therapist",
     company: "Baylor St. Luke's Medical Center",
-    period: "Oct 2015 - Present",
+    period: "Oct 2015 - Dec 2022",
     highlights: [
       "Evaluated and implemented therapeutic interventions within a 24 hour referral order window",
       "Conducted evidence based treatments to improve patient function for activities of daily living",
